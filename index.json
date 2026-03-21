@@ -130,17 +130,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "欢迎来到我的软件源",
-      "identifier": "news_2ov1co5663",
-      "caption": "ReinaHikari",
-      "date": "2026-03-22T00:12",
-      "tintColor": "#6156e2",
-      "imageURL": "https://i.imgur.com/TS2KFWN.png",
-      "notify": false,
-      "url": "",
-      "appID": null
-    }
-  ]
+  "news": []
 }
