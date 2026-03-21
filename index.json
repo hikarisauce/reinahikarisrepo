@@ -14,7 +14,7 @@
     {
       "name": "GetMoreRam",
       "bundleIdentifier": "com.stos.Entitlement",
-      "marketplaceID": "1",
+      "marketplaceID": "reinahikari",
       "developerName": "hugeBlack(由jlj1102二改)",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -42,7 +42,7 @@
     {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
-      "marketplaceID": "2",
+      "marketplaceID": "reinahikari",
       "developerName": "Example Developer",
       "subtitle": "An on-device debugger/JIT enabler for iOS versions 17.4+ powered by idevice.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -74,7 +74,7 @@
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
-      "marketplaceID": "3",
+      "marketplaceID": "reinahikari",
       "developerName": "Example Developer",
       "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -104,7 +104,7 @@
     {
       "name": "ADOFAI Online",
       "bundleIdentifier": "com.memsyslizi.adofai",
-      "marketplaceID": "4",
+      "marketplaceID": "reinahikari",
       "developerName": "memsyslizi&StArray",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
