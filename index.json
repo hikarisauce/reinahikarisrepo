@@ -14,7 +14,7 @@
     {
       "name": "GetMoreRam",
       "bundleIdentifier": "com.stos.Entitlement",
-      "marketplaceID": "reinahikari",
+      "marketplaceID": "reinahikari@qq.com",
       "developerName": "hugeBlack(由jlj1102二改)",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -74,7 +74,7 @@
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
-      "marketplaceID": "reinahikari",
+      "marketplaceID": "reinahikari@qq.com",
       "developerName": "Example Developer",
       "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -104,7 +104,7 @@
     {
       "name": "ADOFAI Online",
       "bundleIdentifier": "com.memsyslizi.adofai",
-      "marketplaceID": "reinahikari",
+      "marketplaceID": "reinahikari@qq.com",
       "developerName": "memsyslizi&StArray",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
