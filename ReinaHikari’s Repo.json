@@ -1,0 +1,31 @@
+{
+  "name": "ReinaHikari’s Repo",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/DM453sv.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "ADOFAI Online",
+      "bundleIdentifier": "com.memsyslizi.adofai",
+      "marketplaceID": "",
+      "developerName": "memsyslizi&StArray",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/4oHxcQN.png",
+      "tintColor": "#fc6444",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
