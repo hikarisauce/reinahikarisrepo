@@ -9,24 +9,52 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "GetMoreRam",
+      "bundleIdentifier": "com.stos.Entitlement",
+      "marketplaceID": "",
+      "developerName": "hugeBlack(由jlj1102二改)",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/cV2yxib.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://hk.gh-proxy.org/https://github.com/jlj1102/GetMoreRam/releases/download/lang_support/Entitlement.ipa",
+          "size": 4600000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-03-21T16:40:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
       "marketplaceID": "",
-      "developerName": "",
+      "developerName": "Example Developer",
       "subtitle": "An on-device debugger/JIT enabler for iOS versions 17.4+ powered by idevice.",
-      "localizedDescription": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/VndaJlL.png",
       "tintColor": "#24c1fc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://hk.gh-proxy.org/https://github.com/StephenDev0/StikDebug/releases/download/3.0.1/StikDebug-3.0.1.ipa",
-          "size": 10500000,
           "version": "3.0.1",
-          "buildVersion": null,
           "date": "2026-03-21T16:29:00+08:00",
           "localizedDescription": null,
+          "downloadURL": "https://hk.gh-proxy.org/https://github.com/StephenDev0/StikDebug/releases/download/3.0.1/StikDebug-3.0.1.ipa",
+          "size": 10500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -44,21 +72,21 @@
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
       "marketplaceID": "",
-      "developerName": "",
+      "developerName": "Example Developer",
       "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
-      "localizedDescription": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/om8s8B7.png",
       "tintColor": "#045c9c",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/1824/download",
-          "size": 94200000,
           "version": "2.3.1",
-          "buildVersion": null,
           "date": "2026-03-21T16:27:00+08:00",
           "localizedDescription": null,
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/1824/download",
+          "size": 94200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -106,7 +134,7 @@
       "caption": "ReinaHikari",
       "date": "2026-03-22T00:12",
       "tintColor": "#6156e2",
-      "imageURL": "",
+      "imageURL": "https://i.imgur.com/TS2KFWN.png",
       "notify": true,
       "url": "",
       "appID": null
