@@ -25,11 +25,11 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-03-20T16:40:00+08:00",
+          "date": "2026-03-20T00:40:00+08:00",
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/jlj1102/GetMoreRam/releases/download/lang_support/Entitlement.ipa",
           "size": 4600000,
-          "buildVersion": "0",
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -53,11 +53,11 @@
       "versions": [
         {
           "version": "3.0.1",
-          "date": "2026-03-20T16:29:00+08:00",
+          "date": "2026-03-20T08:29:00+08:00",
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/StephenDev0/StikDebug/releases/download/3.0.1/StikDebug-3.0.1.ipa",
           "size": 10500000,
-          "buildVersion": "1",
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -85,11 +85,11 @@
       "versions": [
         {
           "version": "2.3.1",
-          "date": "2026-03-20T08:27:00+08:00",
+          "date": "2026-03-20T00:27:00+08:00",
           "localizedDescription": null,
           "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/1824/download",
           "size": 94200000,
-          "buildVersion": "2",
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -115,11 +115,11 @@
       "versions": [
         {
           "version": "2.9.2",
-          "date": "2026-03-20T08:11:00+08:00",
+          "date": "2026-03-20T00:11:00+08:00",
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/StArrayJaN/netdisk/releases/download/v1/ADOFAI-2.9.2-2026.2.16.ipa",
           "size": 506500000,
-          "buildVersion": "3",
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
