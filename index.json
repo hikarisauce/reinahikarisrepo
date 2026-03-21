@@ -1,7 +1,7 @@
 {
   "name": "ReinaHikari’s Repo",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "subtitle": "一些小玩意罢了",
+  "description": "",
   "iconURL": "https://i.imgur.com/DM453sv.png",
   "website": "https://altstudio.app",
   "patreonURL": "https://patreon.com/altstudio",
@@ -19,7 +19,17 @@
       "tintColor": "#fc6444",
       "category": "games",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://hk.gh-proxy.org/https://github.com/StArrayJaN/netdisk/releases/download/v1/ADOFAI-2.9.2-2026.2.16.ipa",
+          "size": 506500000,
+          "version": "2.9.2",
+          "buildVersion": null,
+          "date": "2026-03-21T16:11:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
@@ -27,5 +37,16 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "欢迎来到我的软件源",
+      "identifier": "news_2ov1co5663",
+      "caption": "ReinaHikari",
+      "date": "2026-03-22T00:12",
+      "tintColor": "#6156e2",
+      "notify": true,
+      "url": "",
+      "appID": null
+    }
+  ]
 }
