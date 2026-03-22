@@ -14,7 +14,6 @@
     {
       "name": "GetMoreRam",
       "bundleIdentifier": "com.stos.Entitlement",
-      "marketplaceID": "",
       "developerName": "hugeBlack(由jlj1102二改)",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -29,7 +28,6 @@
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/jlj1102/GetMoreRam/releases/download/lang_support/Entitlement.ipa",
           "size": 4600000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -42,7 +40,6 @@
     {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
-      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An on-device debugger/JIT enabler for iOS versions 17.4+ powered by idevice.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -57,7 +54,6 @@
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/StephenDev0/StikDebug/releases/download/3.0.1/StikDebug-3.0.1.ipa",
           "size": 10500000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -74,7 +70,6 @@
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
-      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -89,7 +84,6 @@
           "localizedDescription": null,
           "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/1824/download",
           "size": 94200000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -104,7 +98,6 @@
     {
       "name": "ADanceofFireandIce",
       "bundleIdentifier": "com.memsyslizi.adofai",
-      "marketplaceID": "",
       "developerName": "memsyslizi&StArray",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -119,7 +112,6 @@
           "localizedDescription": null,
           "downloadURL": "https://hk.gh-proxy.org/https://github.com/StArrayJaN/netdisk/releases/download/v1/ADOFAI-2.9.2-2026.2.16.ipa",
           "size": 506500000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
