@@ -96,10 +96,10 @@
       "patreon": {}
     },
     {
-      "name": "ADanceofFireandIce",
+      "name": "ADOFAI Online",
       "bundleIdentifier": "com.memsyslizi.adofai",
       "developerName": "memsyslizi&StArray",
-      "subtitle": "An awesome app.",
+      "subtitle": "来自lizi开发的带有多人游戏模式的ADOFAI",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/OHvRq4H.png",
       "tintColor": "#fc6444",
