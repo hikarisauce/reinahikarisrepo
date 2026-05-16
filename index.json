@@ -124,14 +124,14 @@
   ],
   "news": [
     {
-      "title": "现已支持ADOFAI Online下载",
+      "title": "莱万汀好看吗？",
       "identifier": "news_oaqymyay0z",
-      "caption": "（点击此卡片不会带你去下载需要你自己去源里看）",
+      "caption": "眞的好看",
       "date": "2026-03-22T09:40",
-      "tintColor": "#ca008b",
-      "imageURL": "https://i.imgur.com/8gzScei.png",
+      "tintColor": "#e04646",
+      "imageURL": "https://free.picui.cn/free/2026/05/16/6a080da71018c.jpeg",
       "notify": false,
-      "url": "https://hikarisauce.github.io/",
+      "url": "https://reinahikari.netlify.app",
       "appID": "com.memsyslizi.adofai"
     }
   ]
